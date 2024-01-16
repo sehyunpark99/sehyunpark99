@@ -1,5 +1,3 @@
-<h1 align="center">Park Sehyun</h1>
-
 ## Contact Me
 <a href="sehyunp9909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail:sehyunp9909@gmail.com-EA4335?style=flat&logo=appveyor&logo=Gmail&logoColor=white"/>
 <a href="https://www.linkedin.com/in/park-sehyun/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=appveyor&logo=LinkedIn&logoColor=white"/>
