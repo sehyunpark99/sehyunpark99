@@ -13,10 +13,8 @@ Hi! I am a graduate student of Data Science currently studying on Model Quantiza
 
 
 
-## Leetcode Stats
+## Leetcode & BOJ Stats
 ![Leetcode Stats](https://leetcard.jacoblin.cool/Park_Sehyun)
-
-## BOJ Stats
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=heon843)](https://solved.ac/heon843/)
 
 
