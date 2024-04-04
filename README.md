@@ -1,6 +1,6 @@
 <h1 align="center">Park Sehyun</h1>
 
-Hi! I am a graduate student of Data Science currently studying Model Quantization, Domain Adaptation, Uncertainty Quantification, Out-of-Distribution Detection, and Applications of Deep Learning models on Edge Devices. 
+Hi! I am pursuing a Master's degree in Data Science. I am currently studying Model Quantization, Domain Adaptation, Uncertainty Quantification, Out-of-Distribution Detection, and Applications of Deep Learning models on Edge Devices. 
 
 ### Contact Me
 <a href="sehyunp9909@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail:sehyunp9909@gmail.com-EA4335?style=flat&logo=appveyor&logo=Gmail&logoColor=white"/>
