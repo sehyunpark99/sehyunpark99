@@ -1,4 +1,5 @@
-<h1 align="center">Park Sehyun<\h1>
+<h1 align="center">Park Sehyun</h1>
+
 Hi! I am a graduate student of Data Science currently studying Model Quantization, Domain Adaptation, Uncertainty Quantification, Out-of-Distribution Detection, and Applications of Deep Learning models on Edge Devices. 
 
 ### Contact Me
